@@ -1,8 +1,8 @@
 .banner {
-    width: 1447px;
+    width: 100%;
     position: absolute;
-    left: 166px;
-top: 865px;
+    left: 17%;
+top: 105%;
 }
 
 .banner__heading {
