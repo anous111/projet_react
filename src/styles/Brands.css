@@ -1,0 +1,39 @@
+.Brands{
+    position: absolute;
+width: 906px;
+height: 56px;
+left: 267px;
+top: 2277px;
+
+}
+.Brands__heading{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+text-transform: capitalize;
+color: #000000;
+}
+.Brands__paragraphe{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 29px;
+text-align: center;
+letter-spacing: 0.02em;
+color: rgba(0, 0, 0, 0.5);
+}
+.Brands__images{
+    width: 906px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+.Brands__images img{
+    width: 90px;
+height: 90px;
+}
